@@ -1,5 +1,5 @@
 {
-  "name": "firstexpressapp",
+  "name": "express-with-mongo",
   "version": "0.0.0",
   "private": true,
   "scripts": {
